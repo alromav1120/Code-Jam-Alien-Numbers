@@ -10,9 +10,9 @@ Input
 
 The first line of input gives the number of cases, N. N test cases follow. Each case is a line formatted as
 
---------------------------------------------
+- - - - - - - - - - - - - - - - - - - - - - -
 alien_number source_language target_language
---------------------------------------------
+- - - - - - - - - - - - - - - - - - - - - - - 
 
 Each language will be represented by a list of its digits, ordered from lowest to highest value. No digit will be repeated in any representation, all digits in the alien number will be present in the source language, and the first digit of the alien number will not be the lowest valued digit of the source language (in other words, the alien numbers have no leading zeroes). Each digit will either be a number 0-9, an uppercase or lowercase letter, or one of the following symbols !"#$%&'()*+,-./:;<=>?@[\]^_`{|}~
 
